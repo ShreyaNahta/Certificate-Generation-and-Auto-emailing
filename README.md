@@ -1,2 +1,4 @@
 # Certificate-Generation-and-Auto-emailing
 Linux Based Real Time Certificate Generation and Auto-emailing through API and Cron
+
+Nowadays automation in academics is extremely essential. Especially, when data on training programs, conferences, and workshops are to be managed and certificates of attendees are to be sent. In this paper, a complete automation platform is proposed that aims to automate the entire procedure to simplify the certificate creation and distribution process. It speeds up certificate delivery via email, guarantees accuracy, and minimizes manual labor by utilizing software automation. This creative solution tackles certificate management's issues of convenience and efficiency. Linux-based platform is proposed for the automatic certificate generation and emailing. The proposed platform integrates Google services, APIs, and Python capabilities.
